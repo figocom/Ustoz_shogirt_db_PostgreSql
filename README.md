@@ -1,0 +1,1 @@
+# Ustoz_shogirt_db_PostgreSql
